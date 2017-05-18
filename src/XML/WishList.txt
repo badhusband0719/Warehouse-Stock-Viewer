@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<a>
+	<password>
+		<pass>b</pass>
+	</password>
+
+	<cd>
+		<genre>Children</genre>
+		<artist>Cliff Chenfeld and Craig Balsam</artist>
+		<title>Kidz Bop 17</title>
+		<number>1</number>
+	</cd>
+	
+	<cd>
+		<genre>Reggae</genre>
+		<artist>Bob Marley</artist>
+		<title>The Legend: Best of Bob Marley and the Wailers Bob Marley</title>
+		<number>3</number>
+	</cd>
+	
+	<cd>
+		<genre>Country</genre>
+		<artist>Taylor Swift</artist>
+		<title>Fearless</title>
+		<number>1</number>
+	</cd>	
+		
+	<cd>
+		<genre>Country</genre>
+		<artist>Miranda Lambert</artist>
+		<title>Revolution</title>
+		<number>2</number>
+	</cd>
+</a>
