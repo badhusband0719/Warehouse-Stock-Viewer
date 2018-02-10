@@ -22,12 +22,12 @@ Login information can be found in ```/src/XML/WishList.txt```.
 The first item in this XML is the login credential.
 For example:
 ```
-<xml version="1.0" encoding="utf-8"?><br/>
-	<a><br/>
-		<password><br/>
-			<pass>b</pass><br/>
-		</password><br/>
-	</a>"
+<xml version="1.0" encoding="utf-8"?>
+	<a>
+		<password>
+			<pass>b</pass>
+		</password>
+	</a>
 ```
 
 So default username is "a", password is "b".
