@@ -21,12 +21,12 @@ through the collection.
 Login information can be found in /src/XML/WishList.txt.
 The first item in this XML is the login credential.
 For example:
-<p>"<?xml version="1.0" encoding="utf-8"?>
-<a>
-	<password>
-		<pass>b</pass>
-	</password>
-</a>"</p>
+<p>&lt;?xml version="1.0" encoding="utf-8"?><br/>
+&emsp;&lt;a><br/>
+	&emsp;&emsp;&lt;password><br/>
+		&emsp;&emsp;&emsp;&lt;pass>b&lt;/pass><br/>
+	&emsp;&emsp;&lt;/password><br/>
+&emsp;&lt;/a>"</p>
 
 So default username is "a", password is "b".
 You can modify this file to change the login credential or preset items in the wishlist. 
